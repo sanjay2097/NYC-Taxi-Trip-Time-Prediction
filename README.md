@@ -7,8 +7,8 @@
 
 ### **Data Summary** : 
 ### NYC Taxi Data.csv -  The data has 11 columns and 1,458,644 records.
-### Independent features : id , vendor_id , pickup_datetime , dropoff_datetime , passenger_count , pickup_longitude , pickup_latitude , dropoff_longitude , dropoff_latitude , store_and_fwd_flag 
-### Target Variable : trip_duration
+* ### Independent features : id , vendor_id , pickup_datetime , dropoff_datetime , passenger_count , pickup_longitude , pickup_latitude , dropoff_longitude , dropoff_latitude , store_and_fwd_flag 
+* ### Target Variable : trip_duration
 ![image](https://user-images.githubusercontent.com/98027899/173228822-c7d05dad-fc6d-40d7-9a56-bbcfc2b1a004.png)
 
 
@@ -41,13 +41,18 @@
 
 ![image](https://user-images.githubusercontent.com/98027899/173228827-a32b9e35-7555-4531-99c5-5f71ae363d40.png)
 
-### **Conclusion**  
+### **Conclusion** :
 ### In this project we developed an optimal regressor model using cross validation and tried to predict the trip time taken by a cab ride in NYC.
 ### Our best model was XGBoost through which we achieved adjusted R score of 80% on test data.
 
+![image](https://user-images.githubusercontent.com/98027899/173228948-dbb73f86-11bd-489d-9ede-2195bf2630da.png)
+
+### **Scope** :
+### Providing an accurate time required for the trip we can help both the host and customers make data driven informed decision regarding the bookings.It will help in inducing competitive rides fare as well as prove to be efficient in traffic management.
+
 ![image](https://user-images.githubusercontent.com/98027899/173228828-b47f7a35-c2d0-4b1d-8eff-70b6ce2d77e1.png)
 
-### **References**
+### **References** :
 https://xgboost.readthedocs.io/en/latest/python/python_api.html
 
 https://www.kaggle.com/c/nyc-taxi-trip-duration/code
