@@ -20,7 +20,7 @@
 ### Weekly and monthly analysis of cab trips across NYC.
 ![Screenshot 2022-06-12 151639](https://user-images.githubusercontent.com/98027899/173227564-9fde1105-8f26-40fb-b4c3-4eb298471efe.png)
 
-### Hourly and monthly analysis of cab trips across NYC.
+### Hourly analysis of cab trips across NYC.
 ![Screenshot 2022-06-12 151653](https://user-images.githubusercontent.com/98027899/173227568-31dfb2ba-2d95-4587-b33d-40e60a455aaa.png)
 
 ### Bivariate analysis of Trip Duration with hour and weekday
