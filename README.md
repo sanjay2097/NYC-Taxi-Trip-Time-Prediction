@@ -11,6 +11,14 @@
 * ### Target Variable : trip_duration
 ![image](https://user-images.githubusercontent.com/98027899/173228822-c7d05dad-fc6d-40d7-9a56-bbcfc2b1a004.png)
 
+### **Project Files** :
+
+* NYC Taxi Time Prediction Capstone Project.ipynb - This file includes Features description, exploratory data Analysis, feature engineering, feature scaling and implemented algorithms.
+* Project PPT - This is a power point presentation file of a project. It includes various visualaized plots of EDA using Seaborn and Matplotlib. The result chart of various implemented algorithms.
+* Project Summary - A brief summary of aim and methodology of the project.
+* Technical Documentation - It includes all the basic information of the work flow and explanation for the project
+
+![image](https://user-images.githubusercontent.com/98027899/173228822-c7d05dad-fc6d-40d7-9a56-bbcfc2b1a004.png)
 
 ### **Project Details** :
 
@@ -35,11 +43,25 @@
 ### Model performances on training and test data
 ![Screenshot 2022-06-12 152212](https://user-images.githubusercontent.com/98027899/173227640-851e090e-2ac7-433b-9005-27e76de86c54.png)
 
-### Most influential features according to best model.
+### Most influential features according to Xgboost model.
 ![Screenshot 2022-06-12 151816](https://user-images.githubusercontent.com/98027899/173227590-85801b2d-ad65-4cf9-b134-5580eba4e428.png)
 
 
 ![image](https://user-images.githubusercontent.com/98027899/173228827-a32b9e35-7555-4531-99c5-5f71ae363d40.png)
+
+### Model References :
+
+* Linear Regression: https://towardsdatascience.com/linear-regression-using-python-b136c91bf0a2
+* Regularization: https://towardsdatascience.com/regularization-an-important-concept-in-machine-learning-5891628907ea
+* Decision Tree: https://towardsdatascience.com/the-complete-guide-to-decision-trees-28a4e3c7be14
+
+* XGBoost: https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+
+* Random Forest: https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+
+* Hyperparameter Tuning: https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide
+
+![image](https://user-images.githubusercontent.com/98027899/173228948-dbb73f86-11bd-489d-9ede-2195bf2630da.png)
 
 ### **Conclusion** :
 ### In this project we developed an optimal regressor model using cross validation and tried to predict the trip time taken by a cab ride in NYC.
@@ -51,6 +73,9 @@
 ### Providing an accurate time required for the trip we can help both the host and customers make data driven informed decision regarding the bookings.It will help in inducing competitive rides fare as well as prove to be efficient in traffic management.
 
 ![image](https://user-images.githubusercontent.com/98027899/173228828-b47f7a35-c2d0-4b1d-8eff-70b6ce2d77e1.png)
+
+### Credits:
+* Sanjay Yadav | Data Scientist
 
 ### **References** :
 https://xgboost.readthedocs.io/en/latest/python/python_api.html
