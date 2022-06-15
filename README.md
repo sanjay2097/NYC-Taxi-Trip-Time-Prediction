@@ -56,6 +56,7 @@
 * Decision Tree: https://towardsdatascience.com/the-complete-guide-to-decision-trees-28a4e3c7be14
 
 * XGBoost: https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+* LightGBM: https://towardsdatascience.com/what-makes-lightgbm-lightning-fast-a27cf0d9785e
 
 * Random Forest: https://towardsdatascience.com/understanding-random-forest-58381e0602d2
 
